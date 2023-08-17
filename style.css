@@ -4,12 +4,18 @@
     padding-top: 0px;
     padding-left: 0px;
 }
-
+section{
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px rgba(85, 85, 85, 0.267);
+}
+body{
+    background-image: linear-gradient(to bottom, #E9492A, #E83E38, #E72357);
+}
 main{
     margin: auto;
     max-width: 600px;
     min-width: 600px;
-    background-color: white;
+    background-color: rgb(129, 125, 125);
 }
 .inline{
     display: flex;
@@ -19,8 +25,10 @@ main{
 }
 #final{
     margin-top: 5vh;
+    margin-bottom: 0px;
 }
-footer{
+p{
     text-align: center;
     line-height: 2vh;
+    background-color: white;
 }
