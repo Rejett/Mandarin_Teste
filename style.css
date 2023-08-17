@@ -1,0 +1,41 @@
+@charset "UFT-8";
+
+*{
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+main{
+    margin: auto;
+    max-width: 600px;
+    min-width: 600px;
+}
+.inline{
+    display: flex;
+}
+#ajuste{
+    margin-left: -1px;
+}
+#posicao{
+    position: relative;
+    top: -32.3vh;
+    left: 32.7vh;
+
+    transform: translate(-50, -50);
+}
+#footer1{
+    position: relative;
+    top: -27vh;
+    transform: translate(-50, -50);
+}
+#footer2{
+    position: relative;
+    top: -36.3vh;
+    left: 31vh;
+    transform: translate(-50, -50);
+}
+footer{
+    text-align: center;
+    line-height: 2vh;
+    margin-top: -34vh;
+}
