@@ -6,7 +6,6 @@
 }
 section{
     background-color: white;
-    box-shadow: 5px 5px 5px 5px rgba(85, 85, 85, 0.267);
 }
 body{
     background-image: linear-gradient(to bottom, #E9492A, #E83E38, #E72357);
@@ -31,4 +30,5 @@ p{
     text-align: center;
     line-height: 2vh;
     background-color: white;
+    padding-bottom: 25px;
 }
